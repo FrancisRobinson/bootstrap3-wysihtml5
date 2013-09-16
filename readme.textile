@@ -1,6 +1,6 @@
 h1. Overview
 
-Bootstrap-wysihtml5 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of "wysihtml5":https://github.com/xing/wysihtml5 and "Twitter Bootstrap":http://twitter.github.com/bootstrap/.
+Bootstrap-wysihtml5 for bootstrap 3 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of "wysihtml5":https://github.com/xing/wysihtml5 and "Twitter Bootstrap":http://twitter.github.com/bootstrap/.
 
 h1. Examples
 
@@ -8,22 +8,18 @@ h1. Examples
 
 h1. Quick Start
 
-If you are using rails use the "bootstrap-wysihtml5-rails gem":http://rubygems.org/gems/bootstrap-wysihtml5-rails.
 
-<pre>
-gem install bootstrap-wysihtml5-rails
-</pre>
-
-Otherwise, download "the latest version of bootstrap-wysihtml5":https://github.com/jhollingworth/bootstrap-wysihtml5/downloads.
+Otherwise, download "the latest version of bootstrap-wysihtml5-for-bootstrap":https://github.com/jhollingworth/bootstrap-wysihtml5/downloads.
 
 h2. Files to reference
 
 <pre>
-<link rel="stylesheet" type="text/css" href="/css/bootstrap-wysihtml5.css"></link>
-<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css"></link>
+<link rel="stylesheet" type="text/css" href="css/bootstrap-wysihtml5.css"></link>
+<link rel="stylesheet" type="text/css" href="lib/bootstrap3/css/bootstrap.min.css"></link>
+<link rel="stylesheet" type="text/css" href="lib/bootstrap3/css/bootstrap-theme.min.css"></link>
 <script src="js/wysihtml5-0.3.0.js"></script>
-<script src="js/jquery-1.7.2.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="lib/bootstrap3/js/bootstrap.min.js"></script>
 <script src="js/bootstrap-wysihtml5.js"></script>
 </pre>
 
