@@ -9,7 +9,7 @@ h1. Examples
 h1. Quick Start
 
 
-Otherwise, download "the latest version of bootstrap-wysihtml5-for-bootstrap":https://github.com/jhollingworth/bootstrap-wysihtml5/downloads.
+Download "the latest version of bootstrap-wysihtml5-for-bootstrap":https://github.com/fabiopaiva/bootstrap3-wysihtml5.git.
 
 h2. Files to reference
 
